@@ -51,5 +51,4 @@ area code.
 16. Create a user-defined function for the product table to fetch a particular product
 type based upon the user’s preference.
 17. Change the product type from coffee to tea where product id is 1 and undo it.
-18. Display the Date, productid and sales where total expenses are between 100 to
-200.
+18. Display the Date, productid and sales where total expenses are between 100 to 200.
